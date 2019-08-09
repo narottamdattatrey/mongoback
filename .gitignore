@@ -1,0 +1,4 @@
+public/js
+dist
+node_modules
+credentials.json
